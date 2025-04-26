@@ -1,7 +1,7 @@
 ## Hi, I'm Carlos 🇧🇷👋
 I’ve just graduated from high school and I'm excited to start my journey in programming!
 - 🔭 **Goal:** My main focus is to build small projects, have fun with them, and potentially work in the area in the near future.
-- ⚡ **Hobbies:** I love playing video games and drawing in my free time.
+- ⚡ **Hobbies:** I love playing video games and drawing in my free time. I also started reading recently!
 - 🌱 **Learning:** I’m currently diving into Flutter through free courses on YouTube.
 - 🤔 **English:** I’m facing some challenges with my English and plan to focus on improving it next year.
 
